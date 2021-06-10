@@ -11,10 +11,12 @@
   <body lang="{{ .Site.LanguageCode }}" class="w-2/5 mx-auto py-10">
     <section id="main">
       <div>
-	      <img src="https://astrascalla.com/image.png" style="width: 37%; height: 37%;">
+	      <img src="{{ .Site.BaseURL }}/image.png" style="width: 37%; height: 37%;">
         <br>
         <h1 id="title" class="font-bold mb-5">
+		<a href="{{ .Site.BaseURL }}">
           {{ .Site.Title }}
+		</a>
         </h1>
         <ul class="">
           <!-- pages -->
