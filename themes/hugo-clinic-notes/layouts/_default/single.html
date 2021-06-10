@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html class="" lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ .Site.Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ partial "head-includes.html" . }}
+  </head>
+
+  <body lang="{{ .Site.LanguageCode }}" class="w-2/5 mx-auto py-10">
+    <section id="main">
+      <div>
+        <a href="http://localhost:1313/"><img src="http://localhost:1313/image.png" style="width: 37%; height: 37%;"></a>
+        <br>
+        <h1 id="title" class="font-bold mb-5">
+          <a href="http://localhost:1313/">
+          {{ .Site.Title }}
+          </a>
+        </h1>
+        {{ define "main" }}
+          <article>
+              <header id="post-header">
+                  <h1>{{ .Title }}</h1>
+                  {{- end -}}
+              </header>
+              <div style="max-width: 74%;">
+              {{- .Content -}}
+              </div>
+          </article>
+      </div>
+    </section>
+    {{ partial "footer.html" . }}
+  </body>
+</html>
