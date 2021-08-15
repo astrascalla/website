@@ -39,6 +39,4 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://plausible.io/api/event"
   status = 202
 
-[[redirects]]
-  from = "https://astrascal.la"
-  to = "https://astrascalla.com"
+https://astrascal.la https://astrascalla.com 301!
