@@ -38,7 +38,3 @@ HUGO_ENABLEGITINFO = "true"
   from = "/something/api/event"
   to = "https://plausible.io/api/event"
   status = 202
-
-[[redirects]]
-  from = "/"
-  to = "https://astrascalla.com"
