@@ -40,6 +40,5 @@ HUGO_ENABLEGITINFO = "true"
   status = 202
 
 [[redirects]]
-  from = "https://astrascal.la"
+  from = "/"
   to = "https://astrascalla.com"
-  status = 301
