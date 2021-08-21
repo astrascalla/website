@@ -1,7 +1,7 @@
-We are a thesis-driven company powering radically innovative crypto networks and protocols in the <a class="link" href="https://ethereum.org">Ethereum</a> ecosystem.
-<br/><br/>
 Our team is made of thinkers, innovators and creators who are looking to deliver tremendous innovation in radically innovative sectors.
 <br/><br/>
-We invest in paradigm shifts.
+Crypto is the paradigm shift we currently focus on. Our time is mostly spent in the <a class="link" href="https://ethereum.org">Ethereum</a> ecosystem as we are particularly bullish on on-chain computation.
+<br/><br/>
+<strong>Mission</strong>: help prepare civilization for the 22nd century by investing in paradigm shifts.
 <br/><br/>
 <a class="link" href="/">back</a>

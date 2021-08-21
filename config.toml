@@ -10,8 +10,12 @@ theme = "hugo-clinic-notes"
   url = "about/"
 
 [[params.menu]]
-  name = "research (coming soon)"
-  url = ""
+  name = "mandatory reading"
+  url = "mandatory-reading/"
+
+[[params.menu]]
+  name = "graphic"
+  url = "https://www.are.na/astrascalla"
 
 # If you want the table of contents at the top of individual notes to index
 # further levels of header (default H2) set this to a higher number
