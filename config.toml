@@ -10,7 +10,7 @@ theme = "hugo-clinic-notes"
   url = "about/"
 
 [[params.menu]]
-  name = "capital (soon)"
+  name = "capital"
   url = "capital/"
 
 [[params.menu]]
