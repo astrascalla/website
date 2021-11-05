@@ -10,10 +10,6 @@ theme = "hugo-clinic-notes"
   url = "about/"
 
 [[params.menu]]
-  name = "capital"
-  url = "capital/"
-
-[[params.menu]]
   name = "mandatory reading"
   url = "mandatory-reading/"
 
