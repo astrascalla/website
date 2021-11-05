@@ -11,11 +11,7 @@ Listed in no particular order.
 <br>
 - <a href="https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100"><strong>High Growth Handbook</strong></a> - Elad Gil
 <br>
-- <a href="https://bookshop.org/books/zag-the-1-strategy-of-high-performance-brands/9780321426772"><strong>Zag</strong></a> - Marty Neumeier
-<br>
 - <a href="https://bookshop.org/books/the-brand-gap-revised-edition-rev/9780321348104"><strong>The Brand Gap</strong></a> - Marty Neumeier
-<br>
-- <a href="https://www.amazon.fr/Designful-Company-culture-nonstop-innovation/dp/0321580060"><strong>The Designful Company</strong></a> - Marty Neumeier
 <br>
 <br/><br/>
 <a class="link" href="/">back</a>
