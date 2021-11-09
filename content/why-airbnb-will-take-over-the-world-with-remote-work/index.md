@@ -1,7 +1,7 @@
 ---
 title: "Why Airbnb Will Take Over The World With Remote Work"
 date: 2021-11-09
-summary: "Brief and accessible investment thesis for Airbnb's stock (ABNB)."
+description: "Brief and accessible investment thesis for Airbnb's stock (ABNB)."
 author: Maxime Desalle
 authorlink: "https://twitter.com/maxdesalle"
 draft: false

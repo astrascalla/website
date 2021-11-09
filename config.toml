@@ -5,6 +5,9 @@ enableEmoji = true
 paginate = 5
 theme = "hugo-clinic-notes"
 
+[params]
+  description = "Helping prepare civilization for the 22nd century by investing in paradigm shifts."
+
 [[params.menu]]
   name = "about"
   url = "about/"
