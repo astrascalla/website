@@ -1259,6 +1259,8 @@ img {
 
 p {
 	font-size: 2.5rem;
+	text-align: center !important;
+	margin: auto !important;
 }
 
 a {
