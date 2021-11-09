@@ -20,7 +20,7 @@ Lately, we have increasingly been feeling that [Airbnb](https://airbnb.com) is i
 
 <br>
 
-This is why Astrascalla will be building a position in Airbnb's stock in the next coming months.
+This is why [Astrascalla](https://astrascalla.com) will be building a position in Airbnb's stock in the next coming months.
 
 <br>
 
