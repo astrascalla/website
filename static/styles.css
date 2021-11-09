@@ -521,9 +521,31 @@ h6 {
  */
 
 a {
+  border-bottom-width: 1px;
+  border-style: dotted;
+  --border-opacity: 1;
+  border-color: #939393;
   color: inherit;
   text-decoration: inherit;
 }
+
+a:hover {
+  text-decoration: none;
+  --bg-opacity: 1;
+  background-color: #939393;
+}
+
+.link-title {
+  text-decoration: none !important;
+  border-style: none !important;
+  }
+
+.link-title:hover {
+  text-decoration: none !important;
+  border-style: none !important;
+  background-color: #ffffff;
+  }
+
 
 /**
  * Reset form element properties that are easy to forget to

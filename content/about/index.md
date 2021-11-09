@@ -1,7 +1,13 @@
+---
+---
+
+---
+<br>
+
 Our team is made of thinkers, innovators and creators who are looking to deliver outstanding returns in radically innovative sectors.
 <br/><br/>
-Crypto is the societal shift we currently focus on. Our time is mostly spent in the <a class="link" href="https://ethereum.org">Ethereum</a> ecosystem as we are particularly bullish on trustless computation.
+Crypto and remote work are the two societal shifts we currently focus on.
 <br/><br/>
 <strong>Mission</strong>: help prepare civilization for the 22nd century by investing in paradigm shifts.
-<br/><br/>
+<br/><br/><br>
 <a class="link" href="/">back</a>

@@ -2,6 +2,9 @@
 title: "mandatory reading"
 ---
 
+---
+<br>
+
 Listed in no particular order.
 <br><br>
 <p style="width: 175%">
