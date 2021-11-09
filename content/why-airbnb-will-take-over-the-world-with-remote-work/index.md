@@ -24,7 +24,7 @@ This is why [Astrascalla](https://astrascalla.com) will be building a position i
 
 <br>
 
-What follows is our investment thesis, backed by three different arguments:
+What follows is our investment thesis, backed by three different arguments which we think will come true in the next 2 decades:
 
 <br>
 
@@ -150,7 +150,7 @@ The thing about crypto payments is that unlike banks which tend to be very natio
 
 <br>
 
-Where you live or who you are really doesn't matter.
+Where you live or who you are really doesn't matter, making crypto ideal for cross-border payments.
 
 <br>
 
@@ -158,7 +158,15 @@ A consequence of that is the fact that it will become incredibly easy for employ
 
 <br>
 
-Just stream the salary to your employees with [Sablier](https://sablier.finance) on [Ethereum](https://ethereum.org).
+In fact, it's likely that some employers will even adopt crypto just to be able to handle the payroll of their international workforce.
+
+<br>
+
+This is without mentioning the speed of blockchain transactions, the lack of third parties these require, and the possible use companies can make of their funds in the [DeFi](https://ethereum.org/en/defi/) ecosystem.
+
+<br>
+
+On-chain payroll also gives anybody timeless proof that the payment did in fact take place, without requiring any kind of administration.
 
 <br><br>
 
