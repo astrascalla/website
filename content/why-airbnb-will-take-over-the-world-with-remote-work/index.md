@@ -94,6 +94,10 @@ Remote work will also kill worker unions as it's very difficult to unite against
 
 <br>
 
+It is possible using a [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization), but it will be very difficult.
+
+<br>
+
 Especially when the employer can just hire someone else anywhere on Earth, and there will always be someone.
 
 <br>
@@ -163,6 +167,10 @@ In fact, it's likely that some employers will even adopt crypto just to be able 
 <br>
 
 This is without mentioning the speed of blockchain transactions, the lack of third parties these require, and the possible use companies can make of their funds in the [DeFi](https://ethereum.org/en/defi/) ecosystem.
+
+<br>
+
+Cross-border wire transfers are also notoriously expensive, something which won't be the case with a scalable crypto payroll solution.
 
 <br>
 
