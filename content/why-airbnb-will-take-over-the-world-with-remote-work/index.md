@@ -16,6 +16,7 @@ draft: false
 
 <br>
 
+
 Lately, we have increasingly been feeling that [Airbnb](https://airbnb.com) is in an ideal position to leverage the future of how we work.
 
 <br>
@@ -234,5 +235,6 @@ It will maybe eventually even become the platform you use to actually travel to 
 
 Finally, as [Ryan Hoover](https://ryanhoover.me) correctly [mentions](https://twitter.com/rrhoover/status/1458062881245876238): "Airbnb isn't just a travel service. It's eating into rent and potentially home ownership."
 
-<br/><br/>
+<br><br>
+
 <a class="link" href="/">back</a>
