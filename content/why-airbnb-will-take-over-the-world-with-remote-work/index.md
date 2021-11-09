@@ -174,7 +174,7 @@ Cross-border wire transfers are also notoriously expensive, something which won'
 
 <br>
 
-On-chain payroll also gives anybody timeless proof that the payment did in fact take place, without requiring any kind of administration.
+Finally, on-chain payroll gives anybody timeless proof that the payment did in fact take place without requiring any kind of administration.
 
 <br><br>
 
