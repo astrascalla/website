@@ -1249,7 +1249,7 @@ video {
 @media (max-width: 1024px) {
 
 body {
-	width: 80% !important;
+	width: 100% !important;
 }
 
 img {
