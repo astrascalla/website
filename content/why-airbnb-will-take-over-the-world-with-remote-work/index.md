@@ -214,5 +214,9 @@ Airbnb will not only become the platform (which it already is) you use when goin
 
 It will maybe eventually even become the platform you use to actually travel to that place.
 
+<br>
+
+Finally, as [Ryan Hoover](https://ryanhoover.me) correctly [mentions](https://twitter.com/rrhoover/status/1458062881245876238): "Airbnb isn't just a travel service. It's eating into rent and potentially home ownership."
+
 <br/><br/>
 <a class="link" href="/">back</a>
