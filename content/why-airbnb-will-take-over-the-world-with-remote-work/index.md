@@ -1,11 +1,10 @@
 ---
 title: "Why Airbnb Will Take Over The World With Remote Work"
 date: 2021-11-09
-description: "Brief and accessible investment thesis for Airbnb's stock (ABNB)."
+description: "A brief and accessible investment thesis for Airbnb."
 author: Maxime Desalle
 authorlink: "https://twitter.com/maxdesalle"
 draft: false
-
 ---
 
 ---
@@ -16,16 +15,7 @@ draft: false
 
 <br>
 
-
-Lately, we have increasingly been feeling that [Airbnb](https://airbnb.com) is in an ideal position to leverage the future of how we work.
-
-<br>
-
-This is why [Astrascalla](https://astrascalla.com) will be building a position in Airbnb's stock in the next coming months.
-
-<br>
-
-What follows is our investment thesis, backed by three different arguments which we think will come true in the next 2 decades:
+What follows is an investment thesis for [$ABNB](https://finance.yahoo.com/quote/ABNB/), backed by three different arguments which we think will come true in the next 2 decades:
 
 <br>
 
@@ -39,7 +29,7 @@ What follows is our investment thesis, backed by three different arguments which
 
 <br><br>
 
-***english***
+**_english_**
 
 <br>
 
@@ -75,7 +65,7 @@ And the same is now happening with English where eventually most of the educatio
 
 <br><br>
 
-***remote work***
+**_remote work_**
 
 <br>
 
@@ -103,7 +93,7 @@ Especially when the employer can just hire someone else anywhere on Earth, and t
 
 <br>
 
-On top of being able to hire top talent and the death of worker unions, remote work enables cheaper employment (as you can hire a software engineer without having them to be in an expensive place like San Francisco).
+On top of enabling the ability to hire top talent and marking the death of worker unions, remote work enables cheaper employment (as you can hire a software engineer without having them to be in an expensive place like San Francisco).
 
 <br>
 
@@ -113,13 +103,9 @@ Finally, employers don't have to pay for office buildings, car leasing and maint
 
 And this is without mentioning how easier remote work makes it for companies to be based in tax heavens.
 
-<br>
-
-OK, so now that we have established that full remote work is basically inevitable, let's talk about transport.
-
 <br><br>
 
-***transport***
+**_transport_**
 
 <br>
 
@@ -143,7 +129,7 @@ Now we have established that transportation systems will soon get infinitely bet
 
 <br><br>
 
-***crypto***
+**_crypto_**
 
 <br>
 
@@ -179,7 +165,7 @@ Finally, on-chain payroll gives anybody timeless proof that the payment did in f
 
 <br><br>
 
-***where the world is going***
+**_where the world is going_**
 
 <br>
 
@@ -221,7 +207,7 @@ You guessed it, [Brian Chesky](https://en.wikipedia.org/wiki/Brian_Chesky)'s Air
 
 <br><br>
 
-***conclusion***
+**_conclusion_**
 
 <br>
 
