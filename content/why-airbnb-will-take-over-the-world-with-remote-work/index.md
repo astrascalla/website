@@ -89,7 +89,7 @@ It is possible using a [DAO](https://en.wikipedia.org/wiki/Decentralized_autonom
 
 <br>
 
-Especially when the employer can just hire someone else anywhere on Earth, and there will always be someone.
+Especially when the employer can just hire someone else anywhere on Earth, and there will always be someone to hire.
 
 <br>
 
@@ -102,6 +102,14 @@ Finally, employers don't have to pay for office buildings, car leasing and maint
 <br>
 
 And this is without mentioning how easier remote work makes it for companies to be based in tax heavens.
+
+<br>
+
+Some will say that employers won't go full remote in order to preserve the company's culture.
+
+<br>
+
+While this is a fair point, given going full-remote makes having a strong internal culture difficult, it's possible to circumvent this problem by organizing yearly company gatherings in exotic places around the world, and by adapting the management to better fit a full-remote working style.
 
 <br><br>
 
@@ -122,6 +130,18 @@ You have to arrive 2 - 3 hours before taking a plane for security checks, trains
 <br>
 
 But this is fortunately changing. Soon, we will have self-driving cars thanks to [Tesla](https://tesla.com), supersonic commercial planes thanks to [Boom Supersonic](https://boomsupersonic.com/) and ultra-rapid trains thanks to [Elon Musk's Hyperloop](https://en.wikipedia.org/wiki/Hyperloop).
+
+<br>
+
+Companies like Uber and Lyft make going somewhere without owning a car incredibly easy, others like VanMoof or Cowboy make cycling much easier, Lime and Felyx make micromobility easier and Tesla, Cruise, Waymo and Coma AI make autonomous driving finally possible.
+
+<br>
+
+Given the above examples, it's a fact that transportation services are getting better.
+
+<br>
+
+It will however take multiple years, probably even a decade, before these innovations really start to pay off and become the norm.
 
 <br>
 
@@ -173,14 +193,18 @@ OK, so let's recap:
 
 <br>
 
-**1.** we know the world will eventually go full remote for internet workers
+**1.** we know the world will _eventually_ go full remote for internet workers
 <br>
 
-**2.** we know transportation systems are getting better and better
+**2.** we know transportation systems will _eventually_ significantly improve
 <br>
 
-**3.** we know salaries will eventually be fully paid in crypto
+**3.** we know salaries will _eventually_ be fully paid in crypto
 <br>
+<br>
+
+Notice the word "eventually": we are speaking here of a 10+ year timescale. These things won't happen immediately.
+
 <br>
 
 The consequence caused by the above three points are that eventually internet worker will work remotely, and will be able to do so from pretty much anywhere in the world.
@@ -220,6 +244,10 @@ It will maybe eventually even become the platform you use to actually travel to 
 <br>
 
 Finally, as [Ryan Hoover](https://ryanhoover.me) correctly [mentions](https://twitter.com/rrhoover/status/1458062881245876238): "Airbnb isn't just a travel service. It's eating into rent and potentially home ownership."
+
+<br>
+
+The future is made of full-remote async nomad workers traveling around the world, and this is where Airbnb's product/market-fit is.
 
 <br><br>
 
