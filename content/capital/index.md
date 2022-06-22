@@ -4,8 +4,16 @@
 ---
 
 <br>
-We only invest in crypto at the moment, and only specifically in tokens with actual utility. Governance is not utility. Revenue generation is not utility. To have utility, the protocol has to be built around the token, instead of the other way around (like it usually is). Only very few tokens fit that architecture.
+We only invest in crypto at the moment, and only specifically in tokens with actual utility.
 <br/><br/>
+Governance is not utility, neither is revenue generation.
+<br/><br/>
+To have utility, the protocol has to be built around the token, instead of the other way around (like it usually is). Only very few tokens fit that architecture.
+<br/><br/>
+<p style="width: 175%">
 Current investments:
 <br>
-- [**Ethereum**](https://ethereum.org) - a decentralized settlement layer for [rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+- <a href="https://ethereum.org"><strong>Ethereum</strong></a> - a decentralized settlement layer for <a href="https://vitalik.ca/general/2021/01/05/rollup.html">rollups</a>
+<br>
+<br/><br/>
+<a class="link" href="/">back</a>
