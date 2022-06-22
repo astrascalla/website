@@ -4,7 +4,7 @@
 ---
 
 <br>
-We only invest in crypto at the moment, and only specifically in tokens with actual utility.
+We only invest in crypto at the moment, and specifically only in tokens with actual utility.
 <br/><br/>
 Governance is not utility, neither is revenue generation.
 <br/><br/>
