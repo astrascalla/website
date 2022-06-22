@@ -6,15 +6,15 @@ paginate = 5
 theme = "hugo-clinic-notes"
 
 [params]
-  description = "Helping prepare civilization for the 22nd century by investing in paradigm shifts."
+  description = "Helping civilization scale up to the stars."
 
 [[params.menu]]
   name = "about"
   url = "about/"
 
 [[params.menu]]
-  name = "writings"
-  url = "writings/"
+  name = "capital"
+  url = "capital/"
 
 [[params.menu]]
   name = "mandatory reading"
