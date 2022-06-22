@@ -8,7 +8,7 @@ We only invest in crypto at the moment, and specifically only in tokens with act
 <br/><br/>
 Governance is not utility, neither is revenue generation.
 <br/><br/>
-To have utility, the protocol has to be built around the token, instead of the other way around (like it usually is). Only very few tokens fit that architecture.
+To have utility, the protocol has to be built around the token, instead of the other way around. Only very few tokens fit that architecture.
 <br/><br/>
 <p style="width: 175%">
 Current investments:
