@@ -15,5 +15,6 @@ Current investments:
 <br>
 - <a href="https://ethereum.org"><strong>Ethereum</strong></a> - a decentralized settlement layer for <a href="https://vitalik.ca/general/2021/01/05/rollup.html">rollups</a>
 <br>
+- <a href="https://thegraph.com"><strong>The Graph</strong></a> - a decentralized API for the web
 <br/><br/>
 <a class="link" href="/">back</a>
