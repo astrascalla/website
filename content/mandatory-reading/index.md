@@ -12,6 +12,10 @@ Listed in no particular order.
 <br>
 - <a href="https://bookshop.org/books/the-timeless-way-of-building/9780195024029"><strong>The Timeless Way of Building</strong></a> - Christopher Alexander
 <br>
+- <a href="https://bookshop.org/p/books/a-pattern-language-towns-buildings-construction-christopher-alexander/11764078?ean=9780195019193"><strong>A Pattern Language</strong></a> - Christopher Alexander
+<br>
+- <a href="https://bookshop.org/p/books/zero-to-one-notes-on-startups-or-how-to-build-the-future-peter-thiel/9402001?ean=9780804139298"><strong>Zero to One</strong></a> - Peter Thiel
+<br>
 - <a href="https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100"><strong>High Growth Handbook</strong></a> - Elad Gil
 <br>
 - <a href="https://bookshop.org/books/the-brand-gap-revised-edition-rev/9780321348104"><strong>The Brand Gap</strong></a> - Marty Neumeier

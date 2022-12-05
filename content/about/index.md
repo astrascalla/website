@@ -4,8 +4,8 @@
 ---
 
 <br>
-Our team is made of thinkers, innovators and creators who are looking to deliver outstanding returns in radically innovative sectors, at the intersection of science and technology.
+Our team is made of thinkers, innovators and creators who are looking to <strong>deliver outstanding returns</strong> in radically innovative sectors, <strong>at the intersection of science and technology.</strong>
 <br/><br/>
-<strong>Crypto</strong> is the current societal shift we focus on.
+We currently focus on <strong>radically innovative crypto networks and protocols.</strong>
 <br/><br/><br>
 <a class="link" href="/">back</a>
