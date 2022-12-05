@@ -4,10 +4,8 @@
 ---
 
 <br>
-Our team is made of thinkers, innovators and creators who are looking to deliver outstanding returns in radically innovative sectors.
+Our team is made of thinkers, innovators and creators who are looking to deliver outstanding returns in radically innovative sectors, at the intersection of science and technology.
 <br/><br/>
-Crypto is the current societal shift we focus on.
-<br/><br/>
-<strong>Mission</strong>: help civilization scale up to the stars.
+<strong>Crypto</strong> is the current societal shift we focus on.
 <br/><br/><br>
 <a class="link" href="/">back</a>
